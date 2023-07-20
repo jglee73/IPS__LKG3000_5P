@@ -11,6 +11,11 @@
   EQP__LKG3000_5P.exe
 
 
+* 화면 해상도가 1680 x 1050 인 경우에는 아래의 Setup 프로그램을 설치하세요.
+  "Setup__SUI_LKG3000_5P-1680_1050\setup.exe"
+  바탕화면의 Icon은 "SUI_P5-1680_1050" 입니다.
+
+
 주의) LK-G3000 Driver는 센서엡체에서 받은 Driver로 설치하세요.
   "LK-H1W Navigator LK-G3.zip" 은 이전 버전일 수 있습니다. 
   
